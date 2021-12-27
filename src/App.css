@@ -4,10 +4,17 @@
 .App {
   display: block;
   margin: 0 auto;
-  max-width: 400px;
+  max-width: 600px;
 }
 
 .App-logo {
-  max-width: 200px;
-  margin: 0 auto;
+  max-width: 100px;
+  margin-left: 80px;
+}
+
+.Lexicon {
+  color: pink;
+  font-family: fantasy;
+  margin-left: -60px;
+  margin-top: 25px;
 }
