@@ -1,0 +1,12 @@
+.Meanings {
+  font-size: 17px;
+  margin: 2px 0 0;
+}
+
+.Meanings .Definition {
+  font-weight: bolder;
+}
+
+.Meanings .Example {
+  font-weight: bolder;
+}

@@ -1,8 +1,13 @@
 .App-header {
-  padding: 5px;
+  padding: 35px;
 }
 .App {
   display: block;
   margin: 0 auto;
   max-width: 400px;
+}
+
+.App-logo {
+  max-width: 200px;
+  margin: 0 auto;
 }
