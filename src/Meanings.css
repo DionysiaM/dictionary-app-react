@@ -1,10 +1,9 @@
-.Meanings {
-  font-size: 17px;
-  margin: 2px 0 0;
-}
-
 .Meanings .Definition {
+  font-size: 15px;
+  font-weight: lighter;
 }
 
 .Meanings .Example {
+  font-style: italic;
+  font-size: 13px;
 }

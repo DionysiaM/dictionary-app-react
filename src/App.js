@@ -18,9 +18,38 @@ export default function App() {
           </div>
         </header>
         <main>
-          <Dictionary defaultKeyword="flower" />
+          <Dictionary defaultKeyword="universe" />
         </main>
       </div>
+      <footer>
+        🌸 This project was coded by{" "}
+        <a
+          href="https://www.linkedin.com/in/dionysia-mastorou-5835a770/"
+          target="_blank"
+        >
+          {" "}
+          Dionysia Mastorou.
+        </a>{" "}
+        It is open-sourced on{" "}
+        <a
+          href="https://github.com/DionysiaM/dictionary-app-react"
+          target="_blank"
+        >
+          {" "}
+          Github
+        </a>{" "}
+        and hosted on{" "}
+        <a href="https://www.netlify.com/" target="_blank">
+          {" "}
+          Netlify.
+        </a>{" "}
+        Photos provided by{" "}
+        <a href="https://www.pexels.com/" target="_blank">
+          {" "}
+          Pexels.
+        </a>{" "}
+        🌸{" "}
+      </footer>
     </div>
   );
 }

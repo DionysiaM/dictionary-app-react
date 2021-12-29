@@ -55,6 +55,7 @@ export default function Dictionary(props) {
               onChange={handleKeywordChange}
               defaultValue={props.defaultKeyword}
             />
+            <button type="search">search</button>
           </form>
         </section>
         <Results results={results} />
