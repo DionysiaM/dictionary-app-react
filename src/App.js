@@ -26,6 +26,7 @@ export default function App() {
         <a
           href="https://www.linkedin.com/in/dionysia-mastorou-5835a770/"
           target="_blank"
+          rel="noreferrer"
         >
           {" "}
           Dionysia Mastorou.
@@ -34,17 +35,18 @@ export default function App() {
         <a
           href="https://github.com/DionysiaM/dictionary-app-react"
           target="_blank"
+          rel="noreferrer"
         >
           {" "}
           Github
         </a>{" "}
         and hosted on{" "}
-        <a href="https://www.netlify.com/" target="_blank">
+        <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
           {" "}
           Netlify.
         </a>{" "}
         Photos provided by{" "}
-        <a href="https://www.pexels.com/" target="_blank">
+        <a href="https://www.pexels.com/" target="_blank" rel="noreferrer">
           {" "}
           Pexels.
         </a>{" "}
